@@ -86,8 +86,8 @@ BERT-base 모델의 마지막 layer의 모든 head에 대한 attention 값 평�
 
 <div>
 <img src="https://user-images.githubusercontent.com/114724403/244861230-1dbb6129-e7e3-4466-b529-f44ab015e17b.png" alt="n1" width="300px" height="500px">
-<img src="https://user-images.githubusercontent.com/114724403/244861226-ae405d2f-7610-44b7-b167-0486a730cbfb.png" alt="n2" width="300px" height="500px"></img>
-<img src="https://user-images.githubusercontent.com/114724403/244861228-85a513cf-16ef-4193-9add-9a8f651fde90.png" alt="n3" width="300px" height="500px"></img>
+<img src="https://user-images.githubusercontent.com/114724403/244861226-ae405d2f-7610-44b7-b167-0486a730cbfb.png" alt="n2" width="300px" height="500px">
+<img src="https://user-images.githubusercontent.com/114724403/244861228-85a513cf-16ef-4193-9add-9a8f651fde90.png" alt="n3" width="300px" height="500px">
 </div>
 
 </br>
