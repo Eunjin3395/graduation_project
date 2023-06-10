@@ -53,6 +53,7 @@ BERT-base 모델의 마지막 layer의 모든 head에 대한 attention 값 평�
 
 ![image](https://github.com/Eunjin3395/graduation_project/assets/114724403/608f1fda-5f95-4be1-879f-40d2b21d9f4f)
 
+
 </br>
 
 ![image](https://github.com/Eunjin3395/graduation_project/assets/114724403/ea84d2b1-4b20-4303-919f-49ab08902959)
@@ -76,7 +77,10 @@ BERT-base 모델의 마지막 layer의 모든 head에 대한 attention 값 평�
 #### 실제 음식점 리뷰 분석
 리뷰가 1,000건 이상 달려 있는 음식점 세 곳의 리뷰 수집 후, 속성별 분석 결과
 
-![n1](https://github.com/Eunjin3395/graduation_project/assets/114724403/adf42407-baaf-451b-9b31-4c3c4414aad8)
+<!-- ![n1](https://github.com/Eunjin3395/graduation_project/assets/114724403/adf42407-baaf-451b-9b31-4c3c4414aad8) -->
+
+<img src="https://github.com/Eunjin3395/graduation_project/assets/114724403/adf42407-baaf-451b-9b31-4c3c4414aad8" alt="n1" width="300px" height="200px">
+
 
 </br>
 
