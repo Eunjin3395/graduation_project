@@ -84,21 +84,21 @@ BERT-base 모델의 마지막 layer의 모든 head에 대한 attention 값 평�
 </br>
 
 <p align="center>
-<img src="https://github.com/Eunjin3395/graduation_project/assets/114724403/2b5cebbb-de5c-4617-98c2-4e993016e20e" alt="n2" width="300px" height="500px">
+  <img src="https://github.com/Eunjin3395/graduation_project/assets/114724403/2b5cebbb-de5c-4617-98c2-4e993016e20e" alt="n2" width="300px" height="500px">
 </p>
 
 </br>
 
 
 <p align="center">
-<img src="https://github.com/Eunjin3395/graduation_project/assets/114724403/cc772f18-2f55-48dc-894c-9dacded9ae56" alt="n3" width="300px" height="500px">
+  <img src="https://github.com/Eunjin3395/graduation_project/assets/114724403/cc772f18-2f55-48dc-894c-9dacded9ae56" alt="n3" width="300px" height="500px">
 </p>
 
 </br>
 </br>
 </br>
 
-## 프로젝트 내용
+## 프로젝트 결
 
 - BERT를 fine-tuning함으로써 맛, 서비스, 가격 속성 각각에 대한 감정 분류
 - BERT모델에서 attention을 추출해 모델이 주목하고 있는 단어 표현 도출
