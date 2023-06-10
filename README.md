@@ -77,22 +77,22 @@ BERT-base 모델의 마지막 layer의 모든 head에 대한 attention 값 평�
 #### 실제 음식점 리뷰 분석
 리뷰가 1,000건 이상 달려 있는 음식점 세 곳의 리뷰 수집 후, 속성별 분석 결과
 
-<!-- ![n1](https://github.com/Eunjin3395/graduation_project/assets/114724403/adf42407-baaf-451b-9b31-4c3c4414aad8) -->
-
-<img src="https://github.com/Eunjin3395/graduation_project/assets/114724403/adf42407-baaf-451b-9b31-4c3c4414aad8" alt="n1" width="300px" height="500px">
-
+<p align="center>
+  <img src="https://github.com/Eunjin3395/graduation_project/assets/114724403/adf42407-baaf-451b-9b31-4c3c4414aad8" alt="n1" width="300px" height="500px">
+</p>
 
 </br>
 
-<!-- ![n2](https://github.com/Eunjin3395/graduation_project/assets/114724403/2b5cebbb-de5c-4617-98c2-4e993016e20e) -->
-
+<p align="center>
 <img src="https://github.com/Eunjin3395/graduation_project/assets/114724403/2b5cebbb-de5c-4617-98c2-4e993016e20e" alt="n2" width="300px" height="500px">
+</p>
 
 </br>
 
-<!-- ![n3](https://github.com/Eunjin3395/graduation_project/assets/114724403/cc772f18-2f55-48dc-894c-9dacded9ae56) -->
 
+<p align="center">
 <img src="https://github.com/Eunjin3395/graduation_project/assets/114724403/cc772f18-2f55-48dc-894c-9dacded9ae56" alt="n3" width="300px" height="500px">
+</p>
 
 </br>
 </br>
