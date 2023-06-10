@@ -24,8 +24,20 @@ Transformer 기반의 BERT를 fine-tuning하여 네이버의 한글 음식점 �
 #### BERT fine-tuning
 
 | Aspect   | Train Loss | Validation Accuracy | Test Accuracy |
-|----------|------------|---------------------|---------------|
+|----------|------------:|---------------------:|---------------:|
 | Food  | 0.0148   | 0.8854 | 0.8750 |
 | Service    | 0.0003   | 0.8958 | 0.9600 |
 | Price| 0.0980   | 0.7875 | 0.8700 |
 | Ambience| 0.0005   | 0.9063 | 0.8478 |
+
+
+</br>
+
+#### Attention 추출
+BERT-base 모델의 마지막 layer의 모든 head에 대한 attention 값 평균을 구하고, attention 값이 높은 단어 순서대로 하이라이트를 주어 시각화했다.
+
+![image](https://github.com/Eunjin3395/graduation_project/assets/114724403/780095df-f303-49d7-a750-cbc79ab1ec38)
+
+
+![image](https://github.com/Eunjin3395/graduation_project/assets/114724403/9ef4d227-f520-4b60-9944-527158312455)
+
