@@ -43,21 +43,26 @@ BERT-base 모델의 마지막 layer의 모든 head에 대한 attention 값 평�
 
 ![attention](https://github.com/Eunjin3395/graduation_project/assets/114724403/39bf62d9-e242-496c-a4a4-190c58aca6fb)
 
+
 </br>
 
 - Food, Service, Price 속성별 리뷰 문장의 attention 시각화
 
 ![image](https://github.com/Eunjin3395/graduation_project/assets/114724403/9575980c-9f79-400d-91be-66df2474bc13)
 
+`Food 속성`
+
 </br>
 
 ![image](https://github.com/Eunjin3395/graduation_project/assets/114724403/608f1fda-5f95-4be1-879f-40d2b21d9f4f)
 
+`Service 속성`
 
 </br>
 
 ![image](https://github.com/Eunjin3395/graduation_project/assets/114724403/ea84d2b1-4b20-4303-919f-49ab08902959)
 
+`Price 속성`
 
 </br>
 </br>
@@ -71,6 +76,8 @@ BERT-base 모델의 마지막 layer의 모든 head에 대한 attention 값 평�
 | Service    | 0.8400   |
 | Price| 0.8800   |
 
+`Food: 80건, Service: 100건, Price: 100건`
+
 </br>
 </br>
 
@@ -78,27 +85,27 @@ BERT-base 모델의 마지막 layer의 모든 head에 대한 attention 값 평�
 리뷰가 1,000건 이상 달려 있는 음식점 세 곳의 리뷰 수집 후, 속성별 분석 결과
 
 <p align="center>
-  <img src="https://user-images.githubusercontent.com/114724403/244861230-1dbb6129-e7e3-4466-b529-f44ab015e17b.png" alt="n1" width="300px" height="500px">
+  <img src="https://user-images.githubusercontent.com/114724403/244861230-1dbb6129-e7e3-4466-b529-f44ab015e17b.png" alt="n1" width="300px" height="500px"></img>
 </p>
 
 </br>
 
 <p align="center>
-  <img src="https://user-images.githubusercontent.com/114724403/244861226-ae405d2f-7610-44b7-b167-0486a730cbfb.png" alt="n2" width="300px" height="500px">
+  <img src="https://user-images.githubusercontent.com/114724403/244861226-ae405d2f-7610-44b7-b167-0486a730cbfb.png" alt="n2" width="300px" height="500px"></img>
 </p>
 
 </br>
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/114724403/244861228-85a513cf-16ef-4193-9add-9a8f651fde90.png" alt="n3" width="300px" height="500px">
+  <img src="https://user-images.githubusercontent.com/114724403/244861228-85a513cf-16ef-4193-9add-9a8f651fde90.png" alt="n3" width="300px" height="500px"></img>
 </p>
 
 </br>
 </br>
 </br>
 
-## 프로젝트 결
+## 프로젝트 결과
 
 - BERT를 fine-tuning함으로써 맛, 서비스, 가격 속성 각각에 대한 감정 분류
 - BERT모델에서 attention을 추출해 모델이 주목하고 있는 단어 표현 도출
